@@ -1,4 +1,4 @@
-![LE Mille Collines Restaurant](/image folder/Capture d’écran 2021-02-01 à 12.11.01.png).
+
 
 
 
@@ -48,10 +48,10 @@ Every page has the same Navbar et same Footer.
     
  ### code example
  ---
- 
  *the navbar
-  * 
-     ```<div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+  
+  
+     ```  <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
                         <div class="navbar-nav">
                           <a class="text-light nav-link active" aria-current="page" href="index.html">HOME</a>
                           <a class="text-light nav-link" href="menu.html">Menu</a>
