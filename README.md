@@ -1,7 +1,4 @@
-
-
-
-
+![Mille Collines](https://github.com/Sandrine-Bataganira/restaurant-css-framework/raw/main/image%20folder/Capture%20d%E2%80%99e%CC%81cran%202021-02-01%20a%CC%80%2012.11.01.png)
 # Restaurant-CSS-Framework
 ----------------------------
 
@@ -48,7 +45,8 @@ Every page has the same Navbar et same Footer.
     
  ### code example
  ---
- *the navbar
+  
+  the navbar ![navbar](https://github.com/Sandrine-Bataganira/restaurant-css-framework/raw/main/image%20folder/Capture%20d%E2%80%99e%CC%81cran%202021-02-01%20a%CC%80%2014.38.58.png)
   
   
      ```  <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
