@@ -1,4 +1,4 @@
-[LE Mille Collines Restaurant](/image folder/Capture d’écran 2021-02-01 à 12.11.01.png).
+![LE Mille Collines Restaurant](/image folder/Capture d’écran 2021-02-01 à 12.11.01.png).
 
 
 
